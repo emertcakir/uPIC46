@@ -32,6 +32,8 @@ It is intended for hobbyists, students, and professionals who want a versatile p
 - Industrial interfaces: CAN and RS-485 included
 - Silkscreen pinout table on PCB for quick reference
 
+![Open iBOM](hardware/uPIC46/bom/ibom.html)
+
 ----------------------------------------------------
 📂 Repository Structure
 ----------------------------------------------------
