@@ -1,4 +1,5 @@
 # uPIC46
+EMC
 
 uPIC46 Development Board
 
@@ -33,17 +34,6 @@ It is intended for hobbyists, students, and professionals who want a versatile p
 - Silkscreen pinout table on PCB for quick reference
 
 ![Open iBOM](hardware/uPIC46/bom/ibom.html)
-
-----------------------------------------------------
-📂 Repository Structure
-----------------------------------------------------
-uPIC46/
-├── hardware/      → KiCad project files (schematic, PCB)
-├── docs/          → Documentation, pinout tables, images
-│   ├── pcb_spec/
-│   └── images/
-└── README
-
 ----------------------------------------------------
 📸 Images
 ----------------------------------------------------
