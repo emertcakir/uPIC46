@@ -1,0 +1,169 @@
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-B_Mask.gbr' ----   Thu Oct  9 16:20:12 2025
+
+D15   --> D100
+D16   --> D101
+D17   --> D102
+D18   --> D103
+D19   --> D104
+D20   --> D105
+D21   --> D106
+D22   --> D107
+D23   --> D108
+D24   --> D109
+D25   --> D110
+D26   --> D111
+D27   --> D112
+D28   --> D113
+D29   --> D114
+D30   --> D115
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-B_Paste.gbr' ----   Thu Oct  9 16:20:12 2025
+
+D10   --> D116
+D11   --> D117
+D12   --> D118
+D13   --> D119
+D14   --> D120
+D15   --> D121
+D16   --> D122
+D17   --> D123
+D18   --> D124
+D19   --> D125
+D20   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-B_Silkscreen.gbr' ----   Thu Oct  9 16:20:12 2025
+
+D11   --> D127
+D12   --> D128
+D13   --> D129
+D16   --> D130
+D17   --> D131
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-Edge_Cuts.gbr' ----   Thu Oct  9 16:20:12 2025
+
+D10   --> D132
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-F_Cu.gbr' ----   Thu Oct  9 16:20:12 2025
+
+D13   --> D133
+D14   --> D134
+D15   --> D135
+D16   --> D136
+D17   --> D137
+D18   --> D138
+D20   --> D139
+D21   --> D140
+D22   --> D141
+D23   --> D142
+D24   --> D143
+D26   --> D144
+D27   --> D145
+D28   --> D146
+D29   --> D147
+D30   --> D148
+D31   --> D149
+D32   --> D150
+D33   --> D151
+D34   --> D152
+D35   --> D153
+D36   --> D154
+D37   --> D155
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-F_Mask.gbr' ----   Thu Oct  9 16:20:13 2025
+
+D13   --> D156
+D14   --> D157
+D15   --> D158
+D16   --> D159
+D17   --> D160
+D18   --> D161
+D20   --> D162
+D21   --> D163
+D22   --> D164
+D23   --> D165
+D24   --> D166
+D25   --> D167
+D26   --> D168
+D27   --> D169
+D28   --> D170
+D29   --> D171
+D30   --> D172
+D31   --> D173
+D32   --> D174
+D33   --> D175
+D34   --> D176
+D35   --> D177
+D36   --> D178
+D37   --> D179
+D38   --> D180
+D39   --> D181
+D40   --> D182
+D41   --> D183
+D42   --> D184
+D43   --> D185
+D44   --> D186
+D45   --> D187
+D46   --> D188
+D47   --> D189
+D48   --> D190
+D49   --> D191
+D50   --> D192
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-F_Paste.gbr' ----   Thu Oct  9 16:20:13 2025
+
+D10   --> D193
+D11   --> D194
+D12   --> D195
+D13   --> D196
+D14   --> D197
+D15   --> D198
+D16   --> D199
+D17   --> D200
+D18   --> D201
+D19   --> D202
+D20   --> D203
+D21   --> D204
+D22   --> D205
+D23   --> D206
+D24   --> D207
+D25   --> D208
+D26   --> D209
+D27   --> D210
+D28   --> D211
+D29   --> D212
+D30   --> D213
+D31   --> D214
+D32   --> D215
+D33   --> D216
+D34   --> D217
+D35   --> D218
+D36   --> D219
+D37   --> D220
+D38   --> D221
+D39   --> D222
+D40   --> D223
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\ergun.mert.cakir\Desktop\Mert Özel\uPIC46 - Git\hardware\Production Files\uPIC46-F_Silkscreen.gbr' ----   Thu Oct  9 16:20:13 2025
+
+D10   --> D224
+D11   --> D225
+D15   --> D226
+D17   --> D227
+D20   --> D228
+-----------------------------------------------------------------

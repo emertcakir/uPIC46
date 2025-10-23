@@ -48,3 +48,5 @@ It is intended for hobbyists, students, and professionals who want a versatile p
 📜 License
 ----------------------------------------------------
 This project is open-source. You are free to use, modify, and distribute it under the terms of the MIT License.
+
+CRITICAL WARNING: This PCB design is currently an experimental, unverified prototype (AS-IS). I have not yet manufactured or functionally tested this version. Proceeding with production carries a high risk of failure and is undertaken solely at your own risk.
